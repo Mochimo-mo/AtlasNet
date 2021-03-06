@@ -1,1 +1,4 @@
-python: can't open file '../training/train_AE_AtlasNet.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "../training/train_AE_AtlasNet.py", line 9, in <module>
+    from auxiliary.dataset import ShapeNet
+ModuleNotFoundError: No module named 'auxiliary'
