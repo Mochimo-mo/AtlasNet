@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "../training/train_AE_AtlasNet.py", line 9, in <module>
+    from auxiliary.dataset import ShapeNet
+ModuleNotFoundError: No module named 'auxiliary'
